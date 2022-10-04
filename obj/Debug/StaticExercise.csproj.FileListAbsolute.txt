@@ -1,0 +1,8 @@
+C:\Users\graha\Desktop\repos\StaticExercise\obj\Debug\StaticExercise.csproj.AssemblyReference.cache
+C:\Users\graha\Desktop\repos\StaticExercise\obj\Debug\StaticExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\graha\Desktop\repos\StaticExercise\obj\Debug\StaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\graha\Desktop\repos\StaticExercise\bin\Debug\StaticExercise.exe.config
+C:\Users\graha\Desktop\repos\StaticExercise\bin\Debug\StaticExercise.exe
+C:\Users\graha\Desktop\repos\StaticExercise\bin\Debug\StaticExercise.pdb
+C:\Users\graha\Desktop\repos\StaticExercise\obj\Debug\StaticExercise.exe
+C:\Users\graha\Desktop\repos\StaticExercise\obj\Debug\StaticExercise.pdb
